@@ -8,3 +8,24 @@ hadoop1@ubuntu:~$ jps
 hadoop1@ubuntu:~$ hadoop fs -copyFromLocal /home/hadoop1/testfile.txt /folder1
 17/03/08 19:40:45 WARN util.NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
 hadoop1@ubuntu:~$ 
+
+
+
+
+
+Hadoop
+
+    Overview
+    Datanodes
+    Snapshot
+    Startup Progress
+    Utilities
+
+Browse Directory
+
+Permission	Owner	Group	Size	Last Modified	Replication	Block Size	Name
+-rw-r--r--	hadoop1	supergroup	505 B	3/8/2017, 7:40:48 PM	1	128 MB	testfile.txt
+
+Hadoop, 2016.
+
+
