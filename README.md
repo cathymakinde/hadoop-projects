@@ -1,2 +1,0 @@
-# hadoop-projects
-Hadoop projects
